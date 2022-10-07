@@ -232,7 +232,7 @@ h4{
    #product-1 .pro-container{
       display: flex;
       justify-content: space-between;
-      padding: 20px;
+      padding: 22px;
       flex-wrap: wrap;
    }
 
